@@ -1,5 +1,4 @@
 dist
 node_modules
-static
-package.json
-package-lock.json
+.cache
+.DS_Store
